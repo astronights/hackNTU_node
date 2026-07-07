@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 const https = require('https');
-const request = require('request');
 const geolib = require('geolib');
 const GeoPoint = require('geopoint');
 const fetch = require("node-fetch");
